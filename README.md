@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm FarrelApriandry 👋
 
-<!--
-**FarrelApriandry/FarrelApriandry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Fullstack developer. Game designer & programmer. I do front-end, back-end, mobile, and game stuff. Most of the time, I’m just hibernating.
 
-Here are some ideas to get you started:
+I like Twice. JKT48 and naps are pretty solid, too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C++
+- Javascript
+- Dart
+- Go
+- Unreal Engine Blueprint
+
+## Social
+- [Instagram](https://www.instagram.com/frlapri)
+- [LinkedIn](https://www.linkedin.com/in/farrel-apriandry-56274b2a2)
+- [Twitter](https://x.com/fpriandry)
+
+## Projects
+Nothing special, just building things when it feels right.
+
+## Fun Facts
+- Hibernation > everything else
+- Twice & JKT48 are good vibes
+
+---
+
+If you wanna talk code, games, or just chill, hit me up.
