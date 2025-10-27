@@ -1,4 +1,4 @@
-# Hey, I'm FarrelApriandry 👋
+# Call me Farrel, GBU
 
 ## About Me
 Fullstack developer. Game designer & programmer. I do front-end, back-end, mobile, and game stuff. Most of the time, I’m just hibernating.
@@ -11,6 +11,8 @@ I like Twice. JKT48 and naps are pretty solid, too.
 - Dart
 - Go
 - Unreal Engine Blueprint
+
+tbh, i don't like programming.
 
 ## Social
 - [Instagram](https://www.instagram.com/frlapri)
@@ -26,4 +28,4 @@ Nothing special, just building things when it feels right.
 
 ---
 
-If you wanna talk code, games, or just chill, hit me up.
+If you wanna talk code, games, or just chill, just called 911, u think u'r psychopath.
