@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hello~ Called me Rel<br>
-God Bless Alwyas Bless U <3
+God Always Bless U <3
 
-- I’m currently working on Merantaw as Game Developer and Project Management<br>
-- And Freelance as Full-Stack and Mobile Apps Development
+- I’m currently working on Merantaw as Game Developer and Project Manager<br>
+- And Freelance as Full-Stack and Mobile Apps Developer
 
 ## 🌐 Socials:
 You can contact me using:<br>
