@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.jng" width="250" />
+  <img src="icon.jpg" width="250" />
 </p>
 
 # 💫 About Me:
