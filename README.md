@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="250" />
+</p>
+
 # 💫 About Me:
 Hello~ Called me Rel<br>
 God Always Bless U <3
