@@ -15,7 +15,26 @@
     </th>
   </tr>
 </table>
+
+---
+
+## 🌟 Interesting Open Source Project
+I love contributing to the ecosystem and building tools that help other developers.
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Meragement](https://github.com/FarrelApriandry/Merantaw-Management)** | Project management application built to help teams manage tasks, projects, and collaboration efficiently. | `Astro`, `React`, `Firebase`, `Shadcn/ui`, `Lucide-icon` |
+| **[RUPIAH Finance Tracker](https://github.com/FarrelApriandry/RUPIAH-finance-tracker)** | Mobile application designed to facilitate personal financial management with real-time sync and multi-wallet support. | `Flutter`, `Firebase`, `Riverpod` |
         
+## 💼 Commercial Project
+Building useful products that solve real-world problems and deliver immersive experiences.
+
+| Project | Description | Main Role |
+| :--- | :--- | :--- |
+| **Nusantara: Pasar Bubrah** | A psychological horror-adventure game rooted in Indonesian culture, particularly the atmosphere of Central Java. | Project Manager & Game Developer |
+
+---
+
 ## 🌐 Socials:
 You can contact me using:<br>
 
