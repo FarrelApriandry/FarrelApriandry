@@ -2,7 +2,7 @@
 
 <img src="logo.png" align="right" width="300" alt="Park Jihyo">
 
-Hello~ Called me Rel
+Hello~ Called me Rel<br>
 God Always Bless U <3
 
 - I’m currently working on Merantaw as Game Developer and Project Manager
