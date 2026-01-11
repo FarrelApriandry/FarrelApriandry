@@ -18,13 +18,14 @@
 
 ---
 
-## 🌟 Interesting Open Source Project
+## 🌟 Interesting Project
 I love contributing to the ecosystem and building tools that help other developers.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Meragement](https://github.com/FarrelApriandry/Merantaw-Management)** | Project management application built to help teams manage tasks, projects, and collaboration efficiently. | `Astro`, `React`, `Firebase`, `Shadcn/ui`, `Lucide-icon` |
 | **[RUPIAH Finance Tracker](https://github.com/FarrelApriandry/RUPIAH-finance-tracker)** | Mobile application designed to facilitate personal financial management with real-time sync and multi-wallet support. | `Flutter`, `Firebase`, `Riverpod` |
+| **[Once-Tube](https://github.com/FarrelApriandry/once-tube-TUI)** | High-performance TUI for searching and playing YouTube content with optimized resource management and TWICE aesthetic. | `Python`, `Textual`, `yt-dlp`, `mpv`, `uv` |
         
 ## 💼 Commercial Project
 Building useful products that solve real-world problems and deliver immersive experiences.
