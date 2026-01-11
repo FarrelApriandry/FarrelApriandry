@@ -1,20 +1,14 @@
 # 💫 About Me:
 
-<table border="0">
-  <tr>
-    <td>
-      Hello~ Called me Rel<br>
-      God Always Bless U <3
-      <ul>
-        <li>I’m currently working on Merantaw as Game Developer and Project Manager</li>
-        <li>And Freelance as Full-Stack and Mobile Apps Developer</li>
-      </ul>
-    </td>
-    <th width="300">
-      <img src="logo.png" width="250" />
-    </th>
-  </tr>
-</table>
+<img src="logo.png" align="right" width="300" alt="Park Jihyo">
+
+Hello~ Called me Rel
+God Always Bless U <3
+
+- I’m currently working on Merantaw as Game Developer and Project Manager
+- And Freelance as Full-Stack and Mobile Apps Developer
+
+<br clear="right"/>
 
 ---
 
