@@ -2,7 +2,7 @@
 
 <img src="logo.png" align="right" width="300" alt="Park Jihyo">
 
-Hello~ Called me Rel<br>
+Hello~ Called *me* **Rel**<br>
 God Always Bless U <3
 
 - I’m currently working on Merantaw as Game Developer and Project Manager
@@ -31,9 +31,17 @@ Building useful products that solve real-world problems and deliver immersive ex
 ---
 
 ## 🌐 Socials:
-You can contact me using:<br>
+You can find and get in touch with me using:<br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/relaprii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farrel-apriandry) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fapriandry) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fpriandry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fapriandry@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/relaprii) : **relaprii**<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farrel-apriandry) : **Farrel Apriandry**<br>
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fapriandry) : **fapriandry**<br>
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fpriandry) : **fpriandry**<br>
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fapriandry@gmail.com) : **fapriandry@gmail.com**<br>
 
 ---
 
