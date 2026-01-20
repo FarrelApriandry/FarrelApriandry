@@ -7,6 +7,11 @@ God Always Bless U <3
 
 - I’m currently working on Merantaw as Game Developer and Project Manager
 - And Freelance as Full-Stack and Mobile Apps Developer
+</br>
+
+**My favorite stack:**
+
+[![My Main Skills](https://skillicons.dev/icons?i=astro,react,nextjs,cpp,unreal,py,nodejs,flutter,firebase,supabase,mongodb,postgresql)](https://skillicons.dev)</br>
 
 <br clear="right"/>
 
@@ -190,7 +195,14 @@ You can find and get in touch with me using:<br>
 ---
 
 # 📊 GitHub Stats:
+
+![FarrelApriandry's github stats](https://github-readme-stats.vercel.app/api?username=FarrelApriandry&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)</br>
+
+![FarrelApriandry's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelApriandry&bg_color=00000000&text_color=595959&title_color=38BDF8&border_color=1B2A4E&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+
 [![FarrelApriandry`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry&theme=github-compact)](https://github.com/FarrelApriandry/github-readme-activity-graph)
+
+![](https://github-contributor-stats.vercel.app/api?username=FarrelApriandry&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ### ✍️ Random Dev Quote
@@ -201,6 +213,21 @@ You can find and get in touch with me using:<br>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FarrelApriandry&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FarrelApriandry&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelApriandry&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![FarrelApriandry`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry&theme=github-compact)](https://github.com/FarrelApriandry/github-readme-activity-graph)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FarrelApriandry&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+-->
 
 <!-- 
 
