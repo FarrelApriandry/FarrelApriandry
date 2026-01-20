@@ -93,7 +93,6 @@ You can find and get in touch with me using:<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat\&logo=shadcnui&\logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=JSON%20web%20tokens)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat\&logo=laravel\&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat\&logo=next.js\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat\&logo=bootstrap\&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat\&logo=chart.js\&logoColor=white)
