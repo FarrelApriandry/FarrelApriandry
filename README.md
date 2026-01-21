@@ -11,7 +11,7 @@ God Always Bless U <3
 
 **My favorite stack:**
 
-[![My Main Skills](https://skillicons.dev/icons?i=astro,react,expressjs,unreal,py,flutter,firebase,supabase,mongodb,postgresql)](https://skillicons.dev)</br>
+[![My Main Skills](https://skillicons.dev/icons?i=astro,react,expressjs,unreal,py,flutter,firebase,supabase,mongodb)](https://skillicons.dev)</br>
 
 <br clear="right"/>
 
