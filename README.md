@@ -35,6 +35,7 @@ Building useful products that solve real-world problems and deliver immersive ex
 | Project | Description | Main Role |
 | :--- | :--- | :--- |
 | **Nusantara: Pasar Bubrah** | A psychological horror-adventure game rooted in Indonesian culture, particularly the atmosphere of Central Java. | Project Manager & Game Developer |
+| **ZAPmarine** | Co-op Game | Game Programmer & Software Infrastructure |
 
 ---
 
