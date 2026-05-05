@@ -36,6 +36,7 @@ Building useful products that solve real-world problems and deliver immersive ex
 | :--- | :--- | :--- |
 | **Nusantara: Pasar Bubrah** | A psychological horror-adventure game rooted in Indonesian culture, particularly the atmosphere of Central Java. | Project Manager & Game Developer |
 | **ZAPmarine** | Co-op Game | Game Programmer & Software Infrastructure |
+| **HAKI-UNTIDAR** | Center for the management and protection of intellectual works of the University Tidar academic community. | Fullstack Developer + DevSecOps |
 
 ---
 
