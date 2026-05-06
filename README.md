@@ -203,9 +203,9 @@ You can find and get in touch with me using:<br>
 
 ![FarreApriandry's profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarrelApriandry&theme=nord_dark)</br>
 
-![FarrelApriandrt's repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarrelApriandry&theme=nord_dark)</br>
+![FarrelApriandrt's repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarrelApriandry&theme=nord_dark&exclude=pho)</br>
 
-![FarrelApriandrt's commit per language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarrelApriandry&theme=nord_dark)</br>
+![FarrelApriandrt's commit per language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarrelApriandry&theme=nord_dark&exclude=php)</br>
 
 [![FarrelApriandry`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry&theme=react)](https://github.com/FarrelApriandry/github-readme-activity-graph)
 
