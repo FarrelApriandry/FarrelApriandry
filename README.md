@@ -199,14 +199,15 @@ You can find and get in touch with me using:<br>
 
 # 📊 GitHub Stats:
 
-![FarrelApriandry's github stats](https://github-readme-stats.vercel.app/api?username=FarrelApriandry&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)</br>
+![FarreApriandry's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarrelApriandry&theme=nord_dark)</br>
 
-![FarrelApriandry's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelApriandry&bg_color=00000000&text_color=595959&title_color=38BDF8&border_color=1B2A4E&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![FarreApriandry's profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarrelApriandry&theme=nord_dark)</br>
 
-[![FarrelApriandry`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry&theme=github-compact)](https://github.com/FarrelApriandry/github-readme-activity-graph)
+![FarrelApriandrt's repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarrelApriandry&theme=nord_dark)</br>
 
-![](https://github-contributor-stats.vercel.app/api?username=FarrelApriandry&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![FarrelApriandrt's commit per language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarrelApriandry&theme=nord_dark)</br>
 
+[![FarrelApriandry`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry&theme=react)](https://github.com/FarrelApriandry/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
