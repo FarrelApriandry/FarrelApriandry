@@ -67,8 +67,6 @@ You can find and get in touch with me using:<br>
 ![C#](https://img.shields.io/badge/cs-%232C2D72.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat\&logo=dart\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat\&logo=kotlin\&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat\&logo=go\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat\&logo=lua\&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat\&logo=php\&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat\&logo=powershell\&logoColor=white)
@@ -80,6 +78,7 @@ You can find and get in touch with me using:<br>
 ## ☁️ Hosting / SaaS
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat\&logo=microsoftazure\&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-%230072C6.svg?style=flat\&logo=ClickUp\&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=Cloudflare\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat\&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat\&logo=netlify\&logoColor=#00C7B7)
@@ -103,7 +102,6 @@ You can find and get in touch with me using:<br>
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat\&logo=codeIgniter\&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat\&logo=daisyui\&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat\&logo=django\&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat\&logo=Electron\&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat\&logo=expo\&logoColor=#D04A37)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat\&logo=express\&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi)
@@ -115,8 +113,6 @@ You can find and get in touch with me using:<br>
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat\&logo=radix-ui\&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat\&logo=reacthookform\&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat\&logo=redux\&logoColor=white)
-![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat\&logo=solid\&logoColor=c8c9cb)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat\&logo=svelte\&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=flat\&logo=three.js\&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat\&logo=vite\&logoColor=white)
@@ -133,10 +129,9 @@ You can find and get in touch with me using:<br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat\&logo=insomnia\&logoColor=5849BE)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat\&logo=cisco\&logoColor=black)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat\&logo=nVIDIA\&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL\&style=flat)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat\&logo=unrealengine\&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat\&logo=unity\&logoColor=white)
+![Godot](https://img.shields.io/badge/godot-%23000000.svg?style=flat\&logo=godot\&logoColor=white)
 
 ---
 
@@ -152,7 +147,6 @@ You can find and get in touch with me using:<br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat\&logo=redis\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat\&logo=Prisma\&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat\&logo=apache-cassandra\&logoColor=white)
 
 ---
 
@@ -177,6 +171,7 @@ You can find and get in touch with me using:<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat\&logo=PyTorch\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat\&logo=scikit-learn\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat\&logo=TensorFlow\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=flat\&logo=Seaborn\&logoColor=white)
 
 ---
 
@@ -187,6 +182,7 @@ You can find and get in touch with me using:<br>
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat\&logo=githubactions\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat\&logo=gitlab\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/MicrosoftAzure-%23181717.svg?style=flat\&logo=MicrosoftAzure\&logoColor=white)
 
 ---
 
