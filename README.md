@@ -203,7 +203,7 @@ You can find and get in touch with me using:<br>
 
 ![FarrelApriandrt's commit per language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarrelApriandry&theme=nord_dark&exclude=php)</br>
 
-[![FarrelApriandry`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry&theme=react)](https://github.com/FarrelApriandry/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
