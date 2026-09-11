@@ -28,6 +28,7 @@ Turning interests into code. A mix of developer tools and passion-driven experim
 | **[Jihyo-Archive](https://github.com/FarrelApriandry/jihyo-archive)** | Editorial-style web archive dedicated to **Park Jihyo** that focus on aesthetic luxury, seamless transitions, and a "classified file" narrative. | `Astro`, `React`, `Supabase`, `Lucide-Icon`|
 | **[VocaTIonal](https://github.com/FarrelApriandry/Web-VocaTIonal)** | A secure, zero-trust inspired grievance system for IT students, featuring automated migrations, NPM whitelisting, and anonymous reporting. | `PHP`, `MySQL`, `Tailwind`, `Docker`, `Lucide-Icon`|
 | **[GolekDuit](https://github.com/FarrelApriandry/GolekDuit)** | Automated stock analysis engine that scrapes IDX data to identify swing trading opportunities using Fibonacci levels and volume breakouts. | `Python`, `Node.js`, `Telegram API`, `yfinance`, `IDX` |
+| **[Rel-Presentation](https://github.com/FarrelApriandry/Rel-Presentation)** | A full-stack web application for managing and presenting generated HTML slide decks. Upload self-contained HTML presentations, organize them in a dashboard, and share them via unique URLs. | `Astro`, `TypeScript`, `React`, `Supabase`, `Bun` |
         
 ## 💼 Commercial Project
 Building useful products that solve real-world problems and deliver immersive experiences.
