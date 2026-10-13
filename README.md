@@ -1,5 +1,5 @@
 <!-- profile-readme -->
-# Farrel Apriandry Ciu — Full-Stack & DevOps Engineer • Game Dev
+# Farrel Apriandry — Full-Stack & DevOps Engineer • Game Dev
 
 <p align="center">
   <img src="https://github.com/FarrelApriandry.png" width="140" alt="Farrel Apriandry" style="border-radius: 50%; border: 3px solid #58a6ff;">
