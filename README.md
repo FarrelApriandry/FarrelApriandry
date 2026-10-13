@@ -22,8 +22,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarrelApriandry&theme=nord_dark" alt="Profile" height="160">
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarrelApriandry&theme=nord_dark&exclude=php" alt="Repos per language" height="160">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarrelApriandry&theme=nord_dark&exclude=php" alt="Commit per language" height="160">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarrelApriandry&theme=nord_dark" alt="Repos per language" height="160">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarrelApriandry&theme=nord_dark" alt="Commit per language" height="160">
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry&theme=github-compact&hide_border=true" alt="Activity graph">
