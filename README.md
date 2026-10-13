@@ -173,11 +173,11 @@ flowchart LR
 ## 📝 Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Server Mastery: Implementing Nginx Server Blocks, Custom DNS, and SSL Hardening on Ubuntu 24.04 LTS](https://fapriandry.medium.com/web-server-mastery-implementing-nginx-server-blocks-custom-dns-and-ssl-hardening-on-ubuntu-6103e60f9d5d)
-- [Network Administration — Week 4: Provisioning ISC DHCP Server & Deep-Diving DORA Protocol on Ubuntu Server 22.04 LTS](https://fapriandry.medium.com/network-administration-week-4-provisioning-isc-dhcp-server-deep-diving-dora-protocol-on-ubuntu-4a152ede9b8d)
-- [Network Administration — Day Three (Part 2): Provisioning Windows Server 2019, PowerShell Automation, and Hyper-V Virtualization](https://fapriandry.medium.com/network-administration-day-three-part-2-provisioning-windows-server-2019-powershell-c0ad455d8b29)
-- [Network Administration — Day Three (Part 1): Provisioning and Hardening Ubuntu Server 22.04 LTS](https://fapriandry.medium.com/network-administration-day-three-part-1-provisioning-and-hardening-ubuntu-server-22-04-3a6dcbfb9c3f)
-- [ESP32 Firmware Basics: Environment Setup and Digital Output Control in Arduino IDE 2.0](https://fapriandry.medium.com/esp32-firmware-basics-environment-setup-and-digital-output-control-in-arduino-ide-2-0-22a9454b722c)
+- [Web Server Mastery: Implementing Nginx Server Blocks, Custom DNS, and SSL Hardening on Ubuntu…](https://fapriandry.medium.com/web-server-mastery-implementing-nginx-server-blocks-custom-dns-and-ssl-hardening-on-ubuntu-6103e60f9d5d?source=rss-8e75b39478b6------2)
+- [Network Administration — Week 4: Provisioning ISC DHCP Server &amp; Deep-Diving DORA Protocol on Ubuntu…](https://fapriandry.medium.com/network-administration-week-4-provisioning-isc-dhcp-server-deep-diving-dora-protocol-on-ubuntu-4a152ede9b8d?source=rss-8e75b39478b6------2)
+- [Network Administration — Day Three &lpar;Part 2&rpar;: Provisioning Windows Server 2019, PowerShell…](https://fapriandry.medium.com/network-administration-day-three-part-2-provisioning-windows-server-2019-powershell-c0ad455d8b29?source=rss-8e75b39478b6------2)
+- [Network Administration — Day Three &lpar;Part 1&rpar;: Provisioning and Hardening Ubuntu Server 22.04](https://fapriandry.medium.com/network-administration-day-three-part-1-provisioning-and-hardening-ubuntu-server-22-04-3a6dcbfb9c3f?source=rss-8e75b39478b6------2)
+- [ESP32 Firmware Basics: Environment Setup and Digital Output Control in Arduino IDE 2.0](https://fapriandry.medium.com/esp32-firmware-basics-environment-setup-and-digital-output-control-in-arduino-ide-2-0-22a9454b722c?source=rss-8e75b39478b6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
