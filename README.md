@@ -1,254 +1,141 @@
-# 💫 About Me:
+<!-- profile-readme -->
+# Farrel Apriandry Ciu — Full-Stack & DevOps Engineer • Game Dev
 
-<img src="logo.png" align="right" width="300" alt="Park Jihyo">
+<p align="center">
+  <img src="https://github.com/FarrelApriandry.png" width="140" alt="Farrel Apriandry" style="border-radius: 50%; border: 3px solid #58a6ff;">
+</p>
 
-Hello~ Called *me* **Rel**<br>
-God Always Bless U <3
-
-- I’m currently working on Merantaw as Game Developer and Project Manager
-- And Freelance as Full-Stack and Mobile Apps Developer
-</br>
-
-**My favorite stack:**
-
-[![My Main Skills](https://skillicons.dev/icons?i=next,astro,typescript,expressjs,bun,nodejs,postgresql,docker)](https://skillicons.dev)</br>
-
-<br clear="right"/>
+<p align="center">
+  <strong>Building tools for developers & Indonesian culture.</strong><br>
+  <a href="https://portfolio.relapri.my.id">portfolio.relapri.my.id</a> •
+  <a href="https://linkedin.com/in/farrel-apriandry">LinkedIn</a> •
+  <a href="https://x.com/fpriandry">X</a> •
+  <a href="mailto:fapriandry@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🌟 Interesting Project
-Turning interests into code. A mix of developer tools and passion-driven experiments built while exploring new tech.
+## 📊 GitHub Overview
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Meragement](https://github.com/FarrelApriandry/Merantaw-Management)** | Project management application built to help teams manage tasks, projects, and collaboration efficiently. | `Astro`, `React`, `Firebase`, `Shadcn/ui`, `Lucide-icon` |
-| **[RUPIAH Finance Tracker](https://github.com/FarrelApriandry/RUPIAH-finance-tracker)** | Mobile application designed to facilitate personal financial management with real-time sync and multi-wallet support. | `Flutter`, `Firebase`, `Riverpod` |
-| **[Once-Tube](https://github.com/FarrelApriandry/once-tube-TUI)** | High-performance TUI for searching and playing YouTube content with optimized resource management and TWICE aesthetic. | `Python`, `Textual`, `yt-dlp`, `mpv`, `uv` |
-| **[Jihyo-Archive](https://github.com/FarrelApriandry/jihyo-archive)** | Editorial-style web archive dedicated to **Park Jihyo** that focus on aesthetic luxury, seamless transitions, and a "classified file" narrative. | `Astro`, `React`, `Supabase`, `Lucide-Icon`|
-| **[VocaTIonal](https://github.com/FarrelApriandry/Web-VocaTIonal)** | A secure, zero-trust inspired grievance system for IT students, featuring automated migrations, NPM whitelisting, and anonymous reporting. | `PHP`, `MySQL`, `Tailwind`, `Docker`, `Lucide-Icon`|
-| **[GolekDuit](https://github.com/FarrelApriandry/GolekDuit)** | Automated stock analysis engine that scrapes IDX data to identify swing trading opportunities using Fibonacci levels and volume breakouts. | `Python`, `Node.js`, `Telegram API`, `yfinance`, `IDX` |
-| **[Rel-Presentation](https://github.com/FarrelApriandry/Rel-Presentation)** | A full-stack web application for managing and presenting generated HTML slide decks. Upload self-contained HTML presentations, organize them in a dashboard, and share them via unique URLs. | `Astro`, `TypeScript`, `React`, `Supabase`, `Bun` |
-        
-## 💼 Commercial Project
-Building useful products that solve real-world problems and deliver immersive experiences.
-
-| Project | Description | Main Role |
-| :--- | :--- | :--- |
-| **Nusantara: Pasar Bubrah** | A psychological horror-adventure game rooted in Indonesian culture, particularly the atmosphere of Central Java. | Project Manager & Game Developer |
-| **ZAPmarine** | Co-op Game | Game Programmer & Software Infrastructure |
-| **HAKI-UNTIDAR** | Center for the management and protection of intellectual works of the University Tidar academic community. | Fullstack Developer + DevSecOps |
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarrelApriandry&theme=nord_dark" alt="Stats" height="160">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarrelApriandry&theme=nord_dark" alt="Profile" height="160">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarrelApriandry&theme=nord_dark&exclude=php" alt="Repos per language" height="160">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarrelApriandry&theme=nord_dark&exclude=php" alt="Commit per language" height="160">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry&theme=github-compact&hide_border=true" alt="Activity graph">
+</p>
 
 ---
 
-## 🌐 Socials:
-You can find and get in touch with me using:<br>
+## 🚀 Featured Projects
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/relaprii) : **relaprii**<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farrel-apriandry) : **Farrel Apriandry**<br>
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fapriandry) : **fapriandry**<br>
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fpriandry) : **fpriandry**<br>
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fapriandry@gmail.com) : **fapriandry@gmail.com**<br>
-
----
-
-# 💻 Tech Stack
-
-## 🧠 Languages
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat\&logo=css3\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
-![C#](https://img.shields.io/badge/cs-%232C2D72.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat\&logo=dart\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat\&logo=kotlin\&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat\&logo=lua\&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat\&logo=php\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat\&logo=powershell\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat\&logo=gnu-bash\&logoColor=white)
+| Project | Highlight | Stack | Link |
+|---------|-----------|-------|------|
+| **Nusantara: Pasar Bubrah** | 🥉 UAD Fair 2025 • 5 HAKI • P2MW 2025 | Unreal Engine, C++, Blender | [Repo](https://github.com/FarrelApriandry/Nusantara-Pasar-Bubrah) · [Trailer](https://www.youtube.com/watch?v=NIs8mJMRhfE) |
+| **HAKI-Untidar** | Production @Untidar • IP management system | Astro, Express, Postgres, Prisma, Docker, Supabase | [Repo](https://github.com/FarrelApriandry/HAKI-Untidar) · [Live](https://haki.untidar.ac.id) |
+| **Meragement** | Project mgmt SaaS • Role-based (admin/member/investor) | Astro, React, Neon PG, Drizzle, better-auth | [Repo](https://github.com/FarrelApriandry/Merantaw-Management) · [Demo](https://management.merantaw.my.id) |
+| **Rel-Presentation** | HTML slide deck platform • Supabase auth/storage | Astro, React, TypeScript, Supabase, Bun | [Repo](https://github.com/FarrelApriandry/Rel-Presentation) · [Live](https://presentation.relapri.my.id) |
+| **Jihyo-Archive** | Editorial luxury archive • "Classified file" UX | Astro, React, Supabase, Lucide | [Repo](https://github.com/FarrelApriandry/jihyo-archive) · [Live](https://jihyo-archive.vercel.app) |
+| **VocaTIonal** | Zero-trust grievance system • Auto-migration, NPM whitelist | PHP, MySQL, Tailwind, Docker | [Repo](https://github.com/FarrelApriandry/Web-VocaTIonal) |
+| **GolekDuit** | IDX swing trading engine • Fibonacci + volume breakout | Python, Node.js, Telegram Bot, yfinance | [Repo](https://github.com/FarrelApriandry/GolekDuit) |
+| **Once-Tube** | High-perf YouTube TUI • TWICE aesthetic | Python, Textual, yt-dlp, mpv, uv | [Repo](https://github.com/FarrelApriandry/once-tube-TUI) |
+| **RUPIAH Finance Tracker** | Multi-wallet • Real-time sync | Flutter, Firebase, Riverpod | [Repo](https://github.com/FarrelApriandry/RUPIAH-finance-tracker) |
 
 ---
 
-## ☁️ Hosting / SaaS
+## 💼 Experience
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat\&logo=microsoftazure\&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-%230072C6.svg?style=flat\&logo=ClickUp\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=Cloudflare\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat\&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat\&logo=netlify\&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat\&logo=vercel\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat\&logo=steam\&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat\&logo=epicgames\&logoColor=white)
+| Role | Org | Period | Focus |
+|------|-----|--------|-------|
+| **Game Dev & PM** | Merantaw.id | 2024–now | Nusantara: Pasar Bubrah, ZAPmarine, Unreal/Godot, CI/CD |
+| **Full-Stack & DevSecOps** | HAKI Untidar (Faculty) | 2024–2025 | Astro SSR, Express API, Postgres, Docker, Supabase, GitHub Actions |
+| **TA Algo Pemrograman** | Universitas Tidar | 2026–now | Teaching assistant, curriculum design |
+| **Intern Game Dev** | Carakan Sadhana Dirgantara & Bodha Dharmaja Aryadhana | 2022–2024 | Game Programmer, 3D Designer, Blockchain Engineer |
+| **Intern Mobile Dev** | Teknoreka | 2023–2024 | Mobile Developer & System Designer |
 
 ---
 
-## 🧩 Frameworks & Libraries
+## ⚙️ Tech Stack
 
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat\&logo=astro\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat\&logo=tailwind-css\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat\&logo=shadcnui&\logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=JSON%20web%20tokens)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat\&logo=next.js\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat\&logo=bootstrap\&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat\&logo=chart.js\&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat\&logo=codeIgniter\&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat\&logo=daisyui\&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat\&logo=django\&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat\&logo=expo\&logoColor=#D04A37)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat\&logo=express\&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi)
-![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat\&logoColor=%23000000)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat\&logo=flask\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat\&logo=jquery\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat\&logo=radix-ui\&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat\&logo=reacthookform\&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat\&logo=svelte\&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=flat\&logo=three.js\&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat\&logo=vite\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat\&logo=vuedotjs\&logoColor=%234FC08D)
+### Core (Daily / Production-Ready)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-2C2052?logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-FFF?logo=bun&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
----
-
-## 🖥️ Servers & Tools
-
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat\&logo=nginx\&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat\&logo=apache\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat\&logo=docker\&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat\&logo=Gradle\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat\&logo=insomnia\&logoColor=5849BE)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat\&logo=cisco\&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat\&logo=unrealengine\&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat\&logo=unity\&logoColor=white)
-![Godot](https://img.shields.io/badge/godot-%23000000.svg?style=flat\&logo=godot\&logoColor=white)
+### Familiar (Project-Specific)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 
 ---
 
-## 🗄️ Database ORM & Auth
+## 🎓 Education
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-%232C2D72?style=flat\&logo=Clerk\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat\&logo=firebase\&logoColor=ffcd34)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat\&logo=sqlite\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat\&logo=mongodb\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat\&logo=mariadb\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat\&logo=redis\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat\&logo=Prisma\&logoColor=white)
+**S1 Teknologi Informasi** — Universitas Tidar (2024–now) · NPM: 2430506056  
+**SMKN 2 Magelang — RPL** (2021–2024)
 
 ---
 
-## 🎨 Design
+## 🏆 Selected Achievements
 
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat\&logo=dribbble\&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat\&logo=figma\&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat\&logo=blender\&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat\&logo=gimp\&logoColor=FFFFFF)
-
----
-
-## 🤖 ML / DL
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat\&logo=anaconda\&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat\&logo=apachespark\&logoColor=black)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat\&logo=opencv\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat\&logo=Keras\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat\&logo=Matplotlib\&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat\&logo=PyTorch\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat\&logo=TensorFlow\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=flat\&logo=Seaborn\&logoColor=white)
+- **Juara 3** — UAD Fair 2025 (Nusantara: Pasar Bubrah)
+- **P2MW 2025 Funded** — Nusantara: Pasar Bubrah
+- **5 Hak Kekayaan Intelektual (HAKI)** registered for Nusantara
+- **Top 8** — Krenova 2024 (Bolang the Explorer)
+- **Deployed production systems** serving 10k+ users (HAKI-Untidar, Meragement)
 
 ---
 
-## 🔄 CI / CD & VCS
+## 📝 Latest Writing
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat\&logo=gitlab\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat\&logo=githubactions\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat\&logo=gitlab\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/MicrosoftAzure-%23181717.svg?style=flat\&logo=MicrosoftAzure\&logoColor=white)
-
----
-
-## 🧪 Testing
-
-![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat\&logo=Puppeteer\&logoSize=auto\&logoColor=black)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat\&logo=selenium\&logoColor=white)
+<!-- BLOG-POST-LIST:START -->
+- [Web Server Mastery: Implementing Nginx Server Blocks, Custom DNS, and SSL Hardening on Ubuntu 24.04 LTS](https://fapriandry.medium.com/web-server-mastery-implementing-nginx-server-blocks-custom-dns-and-ssl-hardening-on-ubuntu-6103e60f9d5d)
+- [Network Administration — Week 4: Provisioning ISC DHCP Server & Deep-Diving DORA Protocol on Ubuntu Server 22.04 LTS](https://fapriandry.medium.com/network-administration-week-4-provisioning-isc-dhcp-server-deep-diving-dora-protocol-on-ubuntu-4a152ede9b8d)
+- [Network Administration — Day Three (Part 2): Provisioning Windows Server 2019, PowerShell Automation, and Hyper-V Virtualization](https://fapriandry.medium.com/network-administration-day-three-part-2-provisioning-windows-server-2019-powershell-c0ad455d8b29)
+- [Network Administration — Day Three (Part 1): Provisioning and Hardening Ubuntu Server 22.04 LTS](https://fapriandry.medium.com/network-administration-day-three-part-1-provisioning-and-hardening-ubuntu-server-22-04-3a6dcbfb9c3f)
+- [ESP32 Firmware Basics: Environment Setup and Digital Output Control in Arduino IDE 2.0](https://fapriandry.medium.com/esp32-firmware-basics-environment-setup-and-digital-output-control-in-arduino-ide-2-0-22a9454b722c)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-# 📊 GitHub Stats:
+## 🤝 Let's Collaborate
 
-![FarreApriandry's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarrelApriandry&theme=nord_dark)</br>
+Open to: **Full-Stack/DevOps contracts • Game dev collabs • Technical consulting • Mentoring**
 
-![FarreApriandry's profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarrelApriandry&theme=nord_dark)</br>
+<details>
+<summary>💬 Fun facts</summary>
 
-![FarrelApriandrt's repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarrelApriandry&theme=nord_dark&exclude=pho)</br>
+- Runs homelab from Xiaomi Pad via Tailscale (code-server, FileBrowser, NEXUS, KRDP)
+- Prefers **tablet-first UX** and **custom cyberpunk-utility UI** over stock frameworks
+- S1 Skripsi candidates: (1) Monolith→Microservices + DevOps, (2) RAG IndoBERT for academic QA
+- `git push origin main` > `git push origin master` since 2020
 
-![FarrelApriandrt's commit per language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarrelApriandry&theme=nord_dark&exclude=php)</br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/merantaw) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FarrelApriandry&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FarrelApriandry&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelApriandry&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![FarrelApriandry`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry&theme=github-compact)](https://github.com/FarrelApriandry/github-readme-activity-graph)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FarrelApriandry&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
--->
-
-<!-- 
-
-# 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FarrelApriandry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FarrelApriandry&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelApriandry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FarrelApriandry&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FarrelApriandry&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</details>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FarrelApriandry&icon=0&color=0)](https://visitcount.itsvg.in)
--->
 
+<p align="center">
+  <sub>Built with ☕ and late-night deploys. Last updated: October 2026</sub>
+</p>
