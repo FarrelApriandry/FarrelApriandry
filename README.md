@@ -29,17 +29,17 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarrelApriandry&theme=nord_dark" alt="Repos per language" height="160">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarrelApriandry&theme=nord_dark" alt="Commit per language" height="160">
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrelApriandry&theme=github-compact&hide_border=true" alt="Activity graph">
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarrelApriandry/FarrelApriandry/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FarrelApriandry/FarrelApriandry/output/github-snake.svg">
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/FarrelApriandry/FarrelApriandry/output/github-snake.svg">
   </picture>
-</p>
+</p> -->
 
 ---
 
