@@ -2,7 +2,7 @@
 <h1 align="center">Farrel Apriandry</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Web%26+DevOps+Engineer;Game+Developer+%E2%80%A2+Unreal+Engine+%26+Godot;Building+Indonesian+Cultural+Games+%26+Tools;Homelab+Enthusiast+via+Tailscale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Web%26+DevOps+Engineer;Game+Developer+%E2%80%A2+Unreal+Engine+%26+Godot;Building+Indonesian+Cultural+Games+%26+Tools;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -84,11 +84,6 @@
 
 ## ⚙️ Tech Stack
 
-### 🕹️ Game Development & 3D Engineering
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unrealengine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
-
 ### 🌐 Frontend & UI
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-2C2052?logo=astro&logoColor=white)
@@ -111,6 +106,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![https://img.shields.io/badge/Tailscale-009639?logo=tailscale&logoColor=white](https://img.shields.io/badge/Tailscale-3D3C3C?style=flat&logo=tailscale&logoColor=white)
+
+## 🧩 Essentials Stack
+
+### 🕹️ Game Development & 3D Engineering
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
@@ -123,12 +126,12 @@
 ## 🛠️ Remote Dev & Homelab Architecture
 
 > [!NOTE]
-> Workflows are orchestrated remotely from a tablet setup via encrypted mesh networking.
+> Workflows are orchestrated remotely from a mobile device setup via encrypted mesh networking.
 
 ```mermaid
 flowchart LR
     subgraph Client["📱 Mobile Command"]
-        Pad["Xiaomi Pad<br/>(Tailscale Client)"]
+        Mobile["Xiaomi Pad<br/>(Tailscale Client)"]
     end
 
     subgraph Network["🔐 Private Mesh"]
@@ -155,7 +158,7 @@ flowchart LR
 
 ## 🎓 Education
 
-**S1 Teknologi Informasi** — Universitas Tidar (2024–now) · NPM: 2430506056  
+**S1 Teknologi Informasi** — Universitas Tidar (2024–now)  
 **SMKN 2 Magelang — RPL** (2021–2024)
 
 ---
@@ -166,7 +169,7 @@ flowchart LR
 - **P2MW 2025 Funded** — Nusantara: Pasar Bubrah
 - **5 Hak Kekayaan Intelektual (HAKI)** registered for Nusantara
 - **Top 8** — Krenova 2024 (Bolang the Explorer)
-- **Deployed production systems** serving 10k+ users (HAKI-Untidar, Meragement)
+- **Deployed production systems** serving 100+ users (HAKI-Untidar, Meragement)
 
 ---
 
@@ -192,15 +195,14 @@ Open to: **Full-Stack/DevOps contracts • Game dev collabs • Technical consul
   <a href="https://portfolio.relapri.my.id"><img src="https://img.shields.io/badge/Portfolio-portfolio.relapri.my.id-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<details>
+<!-- <details>
 <summary>💬 Fun facts & Engineering Mindset</summary>
 
 - Runs homelab from Xiaomi Pad via Tailscale (code-server, FileBrowser, NEXUS, KRDP)
 - Prefers **tablet-first UX** and **custom cyberpunk-utility UI** over stock frameworks
 - S1 Skripsi candidates: (1) Monolith→Microservices + DevOps, (2) RAG IndoBERT for academic QA
 - `git push origin main` > `git push origin master` since 2020
-
-</details>
+</details> -->
 
 ---
 
