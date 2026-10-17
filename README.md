@@ -2,7 +2,7 @@
 <h1 align="center">Farrel Apriandry</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+%26+DevSecOps+Engineer;Game+Developer+%E2%80%A2+Unreal+Engine+%26+Godot;Building+Indonesian+Cultural+Games+%26+Tools;Homelab+Enthusiast+via+Tailscale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Web%26+DevOps+Engineer;Game+Developer+%E2%80%A2+Unreal+Engine+%26+Godot;Building+Indonesian+Cultural+Games+%26+Tools;Homelab+Enthusiast+via+Tailscale" alt="Typing SVG" />
 </p>
 
 <p align="center">
