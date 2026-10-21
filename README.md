@@ -123,7 +123,7 @@
 
 ---
 
-## 🛠️ Remote Dev & Homelab Architecture
+<!-- ## 🛠️ Remote Dev & Homelab Architecture
 
 > [!NOTE]
 > Workflows are orchestrated remotely from a mobile device setup via encrypted mesh networking.
@@ -149,13 +149,10 @@ flowchart LR
         PROD["🚀 Cloudflare / Vercel"]
     end
 
-    Pad --> TS
-    TS --> CS & FB & NX & KR
+    Pad  TS
+    TS  CS & FB & NX & KR
     CS -. Auto Deploy .-> PROD
-```
-
----
-
+-->
 ## 🎓 Education
 
 **S1 Teknologi Informasi** — Universitas Tidar (2024–now)  
