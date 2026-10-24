@@ -53,7 +53,7 @@
     <img src="https://img.youtube.com/vi/NIs8mJMRhfE/maxresdefault.jpg" width="85%" style="border-radius: 12px; border: 2px solid #58a6ff;" alt="Nusantara: Pasar Bubrah Trailer">
   </a>
   <br>
-  <sub>▶️ <em>Klik thumbnail untuk memutar Official Trailer di YouTube</em> · <a href="https://github.com/FarrelApriandry/Nusantara-Pasar-Bubrah">Repositori Game</a></sub>
+  <sub><em>Klik thumbnail untuk memutar Official Trailer di YouTube</em> · <a href="https://github.com/FarrelApriandry/Nusantara-Pasar-Bubrah">Repositori Game</a></sub>
 </p>
 
 | Project | Highlight | Stack | Link |
