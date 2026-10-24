@@ -91,6 +91,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### ⚡ Backend & Databases
+![Elysia.js](https://img.shields.io/badge/Elysia.js-000000?logo=elysiajs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-FFF?logo=bun&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
