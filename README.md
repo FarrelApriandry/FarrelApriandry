@@ -13,7 +13,7 @@
   <strong>Building tools for developers & Indonesian culture.</strong><br>
   <a href="https://portfolio.relapri.my.id">portfolio.relapri.my.id</a> •
   <a href="https://linkedin.com/in/farrel-apriandry">LinkedIn</a> •
-  <a href="https://x.com/fpriandry">X</a> •
+  <a href="https://www.threads.com/@relaprii">Threads</a> •
   <a href="mailto:fapriandry@gmail.com">Email</a>
 </p>
 
