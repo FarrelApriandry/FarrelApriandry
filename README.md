@@ -185,7 +185,7 @@ flowchart LR
 
 ## 🤝 Let's Collaborate
 
-Open to: **Full-Stack/DevOps contracts • Game dev collabs • Technical consulting • Mentoring**
+Open to: **Full-Stack Web/DevOps contracts • Game dev collabs • Technical consulting • Mentoring**
 
 <p align="center">
   <a href="mailto:fapriandry@gmail.com"><img src="https://img.shields.io/badge/Email-fapriandry%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
