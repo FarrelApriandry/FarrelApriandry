@@ -58,7 +58,7 @@
 
 | Project | Highlight | Stack | Link |
 |---------|-----------|-------|------|
-| **Nusantara: Pasar Bubrah** | 🥉 UAD Fair 2025 • 5 HAKI • P2MW 2025 | Unreal Engine, C++, Blender | [Repo](https://github.com/FarrelApriandry/Nusantara-Pasar-Bubrah) · [Trailer](https://www.youtube.com/watch?v=NIs8mJMRhfE) |
+| **Nusantara: Pasar Bubrah** | 🥉 UAD Fair 2025 • 5 HAKI • P2MW 2025 | Unreal Engine, C++, Blueprint, Blender | [Repo](https://github.com/FarrelApriandry/Nusantara-Pasar-Bubrah) · [Trailer](https://www.youtube.com/watch?v=NIs8mJMRhfE) |
 | **HAKI-Untidar** | Production @Untidar • IP management system | Astro, Express, Postgres, Prisma, Docker, Supabase | [Repo](https://github.com/FarrelApriandry/HAKI-Untidar) · [Live](https://haki.untidar.ac.id) |
 | **Meragement** | Project mgmt SaaS • Role-based (admin/member/investor) | Astro, React, Neon PG, Drizzle, better-auth | [Repo](https://github.com/FarrelApriandry/Merantaw-Management) · [Demo](https://management.merantaw.my.id) |
 | **Rel-Presentation** | HTML slide deck platform • Supabase auth/storage | Astro, React, TypeScript, Supabase, Bun | [Repo](https://github.com/FarrelApriandry/Rel-Presentation) · [Live](https://presentation.relapri.my.id) |
